@@ -5,7 +5,7 @@
 
 body {
     height: 100vh;
-    background: #e7e7e7 url("1.jpg") center no-repeat fixed;//放入背景图
+    background: #e7e7e7 url("preview.gif") center no-repeat fixed;//放入背景图
     background-size: cover;
     backdrop-filter: blur(5px);
     display: flex;
@@ -117,7 +117,7 @@ body {
     height: 100%;
     position: relative;
     left: -100%;
-    background: url("1.jpg") no-repeat center fixed;//登入界面背景图
+    background: url("preview.gif") no-repeat center fixed;//登入界面背景图
     background-size: cover;
     transition: transform 0.6s ease-in-out;
     transform: translatex(0);
